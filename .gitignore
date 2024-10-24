@@ -1,2 +1,9 @@
 build/
 .*/
+
+# Compiled binaries with premake
+bin/
+bin-int
+
+# Visual studio files
+*.vcxproj
